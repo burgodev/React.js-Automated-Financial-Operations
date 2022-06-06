@@ -1,0 +1,175 @@
+{
+   "Menu": {
+      "dashboard": "Dashboard",
+      "subscriptions": "Assinaturas"
+   },
+   "Validation": {
+      "required_field": "Campo obrigatório *"
+   },
+   "Buttons": {
+      "confirm": "Confirmar"
+   },
+   "InvestorType": {
+      "conservative": " conservador",
+      "moderate": " moderado",
+      "dashing": " arrojado",
+      "all_types": " conservador, moderado, arrojado"
+   },
+   "PaymentType": {
+      "credit_card": "Cartão de crédito",
+      "debit_card": "Cartão de débito",
+      "bank_slip": "Boleto bancário",
+      "simulation": "Simulação"      
+   },
+   "Login": {       
+       "LoginForm": {
+         "log_in_title": "Login", 
+          "email_label": "Número de telefone ou e-mail",              
+          "password_label": "Senha",       
+          "bt_forgot_password": "Esqueceu sua senha?",
+          "bt_sign_in": "Entrar",
+          "bt_log_in": "Login",
+          "bt_register": "Registrar",
+          "need_help": "Dificuldades para acessar a plataforma?"
+       }
+   },
+   "RegisterForm": {
+      "register_title": "Registrar",       
+      "confirm_password_label": "Confirmar senha",
+      "region_nationality_label": "Região/Nacionalidade",
+      "region_advise": "Certifique-se de que este é seu país de residência permanente",
+      "check_privacy_police": "Eu concordo com os Termos e Condições e com a Política de Privacidade",
+      "create_account":"Cadastrar",         
+      "already_have_account": "Já possui uma conta?",
+      "bt_log_in": "Entrar agora"
+  },
+  "PasswordReset": {
+     "password_reset_title": "Redefinir senha",
+     "password_reset_subtitle": "Entre com o email associado a sua conta e nós iremos enviar um email com as instruções para redefinir sua senha",
+     "bt_send": "Enviar",
+     "bt_back": "Voltar"
+  },
+  "Signatures": {
+     "Steps": {
+         "broker_integration": "Integre com sua corretora",
+         "choose_your_robot": "Escolha seu robô",
+         "choose_your_account": "Escolha sua conta",
+         "payment_method": "Métodos de pagamento",
+         "review_and_confirm": "Revise e confirme"
+     },
+     "IntegrationToken": {
+         "integration_title": "Integre sua corretora com a", 
+         "success_validation_snackbar": "Token validado com sucesso!",
+         "already_been_integrated": "Seu token já foi integrado",
+         "paste_code_below": "Insira seu código de integração abaixo",
+         "token_label": "Token",
+         "bt_submit": "Integrar",
+         "bt_next": "Avançar",
+         "dont_have_broker_account": "Não possui conta em nenhuma corretora?"
+     },
+     "Bots": {
+         "bots_title": "Escolha o plano de assinaturas ideal para você",
+         "bots_subtitle": "Automatizando suas operações, nós cuidamos de obsolutamente tudo pra você, de acordo com o seu perfil de investidor sendo",
+         "and": "e",
+         "plan_cycle": "Tempo do plano",
+         "cycle_type_monthly": "Mensal - Cobrança recorrente",
+         "cycle_type_semiannually": "Semestral",
+         "cycle_type_yearly": "Anual",
+         "recommended_for_inverstor": "Recomendado para investidor ",
+         "return_close_to": "Retorno aproximado",
+         "bt_choose": "Assinar",
+         "bt_simulate": "Simular"
+     },
+     "Account": {
+         "simulation_with_robot": "Simulação com o robô",
+         "subscription_with_robot": "Assinatura com o robô",
+         "broker_name_label": "Nome da corretora",
+         "account_id_label": "ID da conta"        
+     },
+     "Payment": {
+      "payment_title": "Métodos de pagamento",
+      "payment_subtitle": "Automatizando suas operações, nós cuidamos de obsolutamente tudo pra você, de acordo com o seu peril de investidor sendo",
+      "payment_subtitle_2": "Basta você realizar o cadastro em nossa corretora parceira. Depositar o valor do capital operacional, selecionar um robô e dar start em suas operações 100% automatizadas.",
+         "PaymentMethod":{
+            "payment_method_select": "Método de pagamento",
+            "credit_card_with_final": "Cartão de crédito com final: ****"
+         },
+         "BankSlip":{
+            "full_name": "Nome completo",
+            "document_number": "CPF",
+            "bt_download": "Baixar boleto",
+            "need_confirm": "Você precisa confirmar a assinatura para liberar o boleto",
+            "advise": "Pagamentos por boleto podem demorar até 3 dias para serem processados."
+         }
+     },
+     "SignatureReview": {
+         "title_simulation": "Revisão de simulação",
+         "title_subscription": "Revisão de assinatura",
+         "bt_go_to_subscriptions": "Ir para minhas assinaturas",
+         "bt_confirm_simulation": "Confirmar simulação",
+         "bt_confirm_subscription": "Confirmar assinatura",
+         "total_value": "Valor total:",
+         "subscription_label": "Assinatura",
+         "simulation_review": "Para simular os ganhos de um robô, é gratuito!",
+         "snack_bank_slip": "Boleto gerado com sucesso"
+     }
+  },
+  "CardMySignature": {
+      "title": "Assinaturas",
+      "subtitle": "Minhas assinaturas",
+      "no_subscription_available": "Você não possui assinaturas",
+      "hiring_date": "Data de contratação",
+      "orders_performed": "Ordens realizadas",
+      "robot_active_days": "Dias ativos do robô",
+      "initial_balance": "Saldo inicial",
+      "profitability": "Rentabilidade",
+      "profit": "Lucro",
+      "subscription": "Assinatura",
+      "simulation": "Simulação",
+      "waiting_payment": "Aguardando pagamento",
+      "disabled": "Inativo",
+      "active": "Ativo",
+      "date_format": "DD/MM/YYYY",
+      "payment_type_cc": "Catão de crédito",
+      "free_version": "Versão gratuita",
+      "payment_type_bank_slip": "Boleto",
+      "amount": "Montante: ",
+      "profits": "Lucros: ",
+      "total_balance": "Saldo total: ",
+      "bt_renew_subscription": "Renovar assinatura",
+      "bt_cancel_subscription": "Cancelar assinatura",
+      "bt_cancel_simulation": "Cancelar simulação",
+      "bt_new_subscription": "Nova assinatura",
+      "account_id": "Conta: ID"
+  },
+  "Modal": {
+     "Simulation": {
+        "simulation_completed": "Simulação concluída",
+        "keep_up_simulation": "Acompanhe sua nova simulação na tela de assinaturas" ,
+        "bt_new_simulation": "Nova simulação",
+        "bt_go_to_signatures": "Tela de assinaturas"
+     },
+     "RefusedSubscription":{
+      "payment_failed": "Falha no pagamento",
+      "failed_on_generate_bank_slip": "Falha ao gerar o boleto, verifique as informações inseridas",
+      "review_your_payment": "Revise os dados do método de pagamento e tente novamente!",
+      "bt_try_again": "Tentar novamente"
+   },
+   "Subscription": {
+      "payment_processed": "Pagamento processado com sucesso!",
+      "welcome_automation": "Seja bem vindo à automação financeira!",
+      "bt_subscribe_another_one": "Assinar outro robô",
+      "bt_follow_up_subscription": "Acompanhar nova assinatura"
+   },
+   "CancelSubscription": {
+      "really_want_to_cancel": "Você deseja mesmo cancelar sua assinatura?",
+      "you_didnt_completed_cycle": "Você não completou o cliclo minimo para esta assinatura, impossibilitando você a retirar seus lucros no tempo contratado.",
+      "bt_yes_i_agree": "Sim, quero cancelar"
+   },
+   "CancelSimulation": {
+      "really_want_to_cancel": "Você deseja mesmo cancelar sua simulação?",
+      "you_didnt_completed_cycle": "Você terá que começar novamente a simulação, perdendo as informações atuais.",
+      "bt_yes_i_agree": "Sim, entendo"
+   }
+  }
+}

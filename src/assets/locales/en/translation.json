@@ -1,0 +1,179 @@
+{
+   "Menu": {
+      "dashboard": "Dashboard",
+      "subscriptions": "Subscriptions"
+   },
+   "Validation": {
+      "required_field": "Required field *"
+   },
+   "Buttons": {
+      "confirm": "Confirm"
+   },
+   "InvestorType": {
+      "conservative": " conservative",
+      "moderate": " moderate",
+      "dashing": " dashing",
+      "all_types": " conservative, moderate and dashing"
+   },
+   "PaymentType": {
+      "credit_card": "Credit card",
+      "debit_card": "Debit card",
+      "bank_slip": "Bank slip",
+      "simulation": "Simulation"      
+   },
+   "Login": {       
+      "LoginForm": {    
+         "log_in_title": "Log in",  
+         "email_label": "Email or phone number",              
+         "password_label": "Password",       
+         "bt_forgot_password": "Forgot my password",
+         "bt_log_in": "Log in",
+         "bt_register": "Register",
+         "need_help": "Problems with access our platform?"
+     },
+      "RegisterForm": {
+         "register_title": "Register", 
+         "confirm_password_label": "Confirm password",
+         "region_nationality_label": "Region/Nationality",
+         "region_advise": "Make sure this is your country of permanent residence",
+         "check_privacy_police": "I have read and accept with the Terms and Conditions and Policy",
+         "create_account":"Create account",         
+         "already_have_account": "Already have account?",
+         "bt_log_in": "Log in",
+         "success_created_account_snackbar": "Account created with success"
+     },
+     "PasswordReset": {
+        "password_reset_title": "Reset password",
+        "password_reset_subtitle": "Enter the email associated with your account and we will send an email with the instructions to reset your password",
+        "bt_send": "Send",
+        "bt_back": "Back"
+     }
+
+   },
+   "Signatures": {
+      "Steps": {
+          "broker_integration": "Exchange integration",
+          "choose_your_robot": "Choose your robot",
+          "choose_your_account": "Choose your account",
+          "payment_method": "Payment methods",
+          "review_and_confirm": "Review and submit"
+      },
+      "IntegrationToken": {
+         "integration_title": "Integrate your brokerage with",         
+         "success_validation_snackbar": "Success token validation!",
+         "already_been_integrated": "Your token is already integrated",
+         "paste_code_below": "Paste your integration token below",
+         "token_label": "Token",
+         "bt_submit": "Submit",
+         "bt_next": "Next",
+         "dont_have_broker_account": "Don't have a broker account?"
+     },
+     "Bots": {
+         "bots_title": "Choose the subscription plan that's right for you",
+         "bots_subtitle": "Automating your operations, we take care of absolutely everything for you, according to your investor profile being",
+         "and": "and",
+         "plan_cycle": "Tempo do plano",
+         "cycle_type_monthly": "Monthly - Recurrent charge",
+         "cycle_type_semiannually": "Semiannually",
+         "cycle_type_yearly": "Yearly",
+         "recommended_for_inverstor": "Recommended for investor ",
+         "return_close_to": "Return close to",
+         "bt_choose": "Choose",
+         "bt_simulate": "Simulate"
+     },
+     "Account": {
+      "simulation_with_robot": "Simulation with the robot",
+      "subscription_with_robot": "Subscription with the robot",
+      "broker_name_label": "Broker name",
+      "account_id_label": "Account id",
+      "bt_confirm": "Confirm"
+     },
+     "Payment": {
+      "payment_title": "Payment methods",
+      "payment_subtitle": "By automating your operations, we take care of absolutely everything for you, according to your investor profile being",
+      "payment_subtitle_2": "Just register with our partner brokerage. Deposit the value of operating capital, select a robot and start your 100% automated operations.",
+         "PaymentMethod":{
+            "payment_method_select": "Payment method",
+            "credit_card_with_final": "Credit card with final: ****"
+         },
+         "BankSlip":{
+            "full_name": "Full name",
+            "document_number": "Document number",
+            "bt_download": "Download",
+            "need_confirm": "You need to confirm subscription to release bank slip",
+            "advise": "Payment through bank slip could be 3 days late to be processed."
+         }
+     },     
+     "SignatureReview": {
+         "title_simulation": "Simulation review",
+         "title_subscription": "Subscription review",
+         "bt_go_to_subscriptions": "Go to my subscriptions",      
+         "bt_confirm_simulation": "Confirm simulation",
+         "bt_confirm_subscription": "Confirm subscription",
+         "total_value": "Total value:",
+         "subscription_label": "Subscription",
+         "simulation_review": "To simulate our robots earnings, it's free!",
+         "snack_bank_slip": "Success on generate bank slip"
+          
+     }
+   },
+   
+   "CardMySignature": {      
+      "title": "Subscriptions",
+      "subtitle": "My subscriptions",
+      "no_subscription_available": "You dont have subscriptions yet",
+      "hiring_date": "Hiring date",
+      "orders_performed": "Orders performed",
+      "robot_active_days": "Robot active days",
+      "initial_balance": "Initial balance",
+      "profitability": "Profitability",
+      "profit": "Profit",
+      "subscription": "Subscription",
+      "simulation": "Simulation",
+      "waiting_payment": "Waiting payment",
+      "disabled": "Disabled",
+      "active": "Active",
+      "date_format": "MM/DD/YYYY",
+      "payment_type_cc": "Credit card",
+      "free_version": "Free version",
+      "payment_type_bank_slip": "Bank slip",
+      "amount": "Amount: ",
+      "profits": "Profits: ",
+      "total_balance": "Total balance: ",
+      "bt_renew_subscription": "Renew subscription",
+      "bt_cancel_subscription": "Cancel subscription",
+      "bt_cancel_simulation": "Cancel simulation",
+      "bt_new_subscription": "New subscription",
+      "account_id": "Account: ID"
+  },
+  "Modal": {
+   "Simulation": {
+      "simulation_completed": "Simulation completed",
+      "follow_up_simulation": "Follow up your simulation on subscription screen" ,
+      "bt_new_simulation": "New simulation",
+      "bt_go_to_subscriptions": "My subscriptions"
+   },
+   "RefusedSubscription":{
+      "payment_failed": "Payment failed",
+      "failed_on_generate_bank_slip": "Failed on generate bank slip",
+      "review_your_payment": "Review your payment data and try again!",
+      "bt_try_again": "Try again"
+   },
+   "Subscription": {
+      "payment_processed": "Your payment has been processed!",
+      "welcome_automation": "Welcome to financial automation!",
+      "bt_subscribe_another_one": "Subscribe another one",
+      "bt_follow_up_subscription": "Follow up your subscription"
+   },
+   "CancelSubscription": {
+      "really_want_to_cancel": "Do you really want to cancel your subscription?",
+      "you_didnt_completed_cycle": "You have not completed the minimum cycle for this subscription, making it impossible for you to withdraw your profits within the minimum time hired.",
+      "bt_yes_i_agree": "Yes, cancel"
+   },
+   "CancelSimulation": {
+      "really_want_to_cancel": "Do you really want to cancel your simulation?",
+      "you_didnt_completed_cycle": "You will have to start the simulation again, losing the current information.",
+      "bt_yes_i_agree": "Yes, i agree"
+   }
+}    
+}
